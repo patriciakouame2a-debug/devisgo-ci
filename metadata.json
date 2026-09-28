@@ -1,0 +1,6 @@
+{
+  "name": "DevisGo CI",
+  "description": "Créez facilement vos devis professionnels, téléchargez-les en PDF et partagez-les avec vos clients sur WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
